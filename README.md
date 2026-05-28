@@ -20,14 +20,3 @@ Atualmente estou no 1º semestre de **Informática para Negócios na FATEC Mauá
 *   🎓 **Graduação:** Informática para Negócios - FATEC Mauá.
 *   🚀 **Especialização:** Bootcamp de Python e Dados (TOTVS & DIO).
 *   🧠 **Foco de Estudo:** Modelagem de dados, estatística aplicada e Business Intelligence.
-
----
-
-
-## 📫 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN_AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
-
----
-*"Dados são o novo petróleo, mas só têm valor se forem refinados."*
